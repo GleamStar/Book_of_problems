@@ -1,0 +1,61 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+    </style>
+    <color name="a">#2F4F4F</color>
+    <color name="a1">#fff9ff7c</color>
+
+<style name="button">
+    <item name="android:background">@color/a</item>
+    <item name="android:textColor">@color/a1</item>
+    <item name="android:layout_width">wrap_content</item>
+    <item name="android:layout_height">wrap_content</item>
+    <item name="android:textStyle">bold</item>
+</style>
+    <style name="textview">
+        <item name="android:textStyle">bold</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textColor">@color/a1</item>
+        <item name="android:textSize">25sp</item>
+    </style>
+    <style name="textviewdialog">
+        <item name="android:textStyle">bold</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">50sp</item>
+        <item name="android:textColor">@color/a1</item>
+        <item name="android:textSize">25sp</item>
+    </style>
+    <style name="edit">
+        <item name="android:background">@color/a</item>
+        <item name="android:textColor">@color/a1</item>
+        <item name="android:layout_width">fill_parent</item>5ee
+        <item name="android:layout_height">50sp</item>
+        <item name="android:textSize">25sp</item>
+        <item name="android:inputType">textPassword</item>
+    </style>
+    <style name="edit2">
+        <item name="android:background">@color/a</item>
+        <item name="android:textColor">@color/a1</item>
+        <item name="android:layout_width">fill_parent</item>5ee
+        <item name="android:layout_height">50sp</item>
+        <item name="android:textSize">25sp</item>
+    </style>
+    <style name="btzd">
+
+        <item name="android:background">@android:color/transparent</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+    <style name="skip">
+
+
+    </style>
+   <!-- <style name="FullHeightDialog" parent="android:style/Theme.Dialog">
+
+         <item name="android:background"></item>
+    </style>-->
+
+</resources>

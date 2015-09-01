@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">Book of problems</string>
+    <string name="action_settings">Settings</string>
+    <string name="txt_header_title">ToDo List</string>
+    <string name="txt_footer_title">Done: %s</string>
+    <string name="title_activity_zapolnenie">Zapolnenie</string>
+    <string name="tx1">Do everything in date! :)
+                   Thank you for installing</string>
+
+
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="btnext">Next</string>
+
+
+
+    <string name="zadacha">Write what you want to do :</string>
+    <string name="opisaniezadachi"> Describe what you want to do</string>
+    <string name="Avtorizacia">Authorization</string>
+    <string name="Registracia">Registration</string>
+    <string name="log">Enter your login</string>
+    <string name="par1">Enter password</string>
+    <string name="par2">Repeat password</string>
+    <string name="deltx">What is the deal on the account you wish to remove ?</string>
+    <string name="frtx">The application of conduct of business</string>
+    <string name="fr3tx">Congratulations!</string>
+    <string name="erpass">Passwords do not match</string>
+    <string name="Pola">The apron in all fields</string>
+    <string name="date">Enter the date</string>
+    <string name="sv1"> Welcome</string>
+    <string name="sv2">Add the task !</string>
+    <string name="Delete">Remove</string>
+    <string name="txt_dobavit">Add</string>
+    <string name="mot1">Love those who draws a smile on your face</string>
+    <string name="mot2">Do not let the difficulties to break yourself</string>
+    <string name="mot3">Do not think that you can ... Know !</string>
+    <string name="mot4">In my dictionary there is no word impossible ( Napoleon )</string>
+    <string name="mot5">Tired is not a reason to give up</string>
+    <string name="message_box_title">Title</string>
+    <string name="message_timesheet_not_up_to_date">asdasd</string>
+    <string name="BackString1">Выйти из приложения?</string>
+    <string name="BackString2">Вы действительно хотите выйти?</string>
+    <string name="avr3">Каким по счёту вы хотите его сделать ?</string>
+
+</resources>

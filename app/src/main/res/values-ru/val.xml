@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="button">OK</string>
+    <string name="cancel">Закрыть</string>
+    <string name="tx1">Благодарим за установку</string>
+    <string name="app_name">bookofpr</string>
+    <string name="txt_header_title">Надо сделать</string>
+    <string name="txt_footer_title">Сделано: %s</string>
+    <string name="zadacha">Напишите то что хотите сделать:</string>
+    <string name="opisaniezadachi"> Опишите то , что хотите сделать</string>
+    <string name="Avtorizacia">Авторизация</string>
+    <string name="Registracia">Регистрация</string>
+    <string name="log">Введите логин</string>
+    <string name="par1">Введите пароль</string>
+    <string name="par2">Повторите пароль</string>
+    <string name="deltx">Какое дело по счёту вы желаете удалить ?</string>
+    <string name="frtx">Приложение по ведению дел</string>
+    <string name="fr3tx">Поздравляем !</string>
+    <string name="erpass">Пароли не совпадают</string>
+    <string name="Pola">Запоните все поля</string>
+    <string name="date">Введите время</string>
+    <string name="sv1"> Добро пожаловать</string>
+    <string name="sv2">Добавьте задачу!</string>
+    <string name="Delete">Удалить</string>
+    <string name="txt_dobavit">Добавить</string>
+    <string name="mot1">Любите тех , кто рисует на вашем лице улыбку</string>
+    <string name="mot2">Не дай трудностям сломать себя</string>
+    <string name="mot3">Не думай , что можешь...Знай!</string>
+    <string name="mot4">В моём словаре нет слова невозможно(Наполеон)</string>
+    <string name="mot5">Усталось не повод сдаваться</string>
+    <string name="message_box_title">Титульная</string>
+    <string name="message_timesheet_not_up_to_date">авава</string>
+    <string name="dayplan">Запланируйте свой день=)</string>
+    <string name="dayplan2">Всё будет хорошо =) Сегодня ваше время!!</string>
+    <string name="daypan3">Сегодня ваше время!!</string>
+    <string name="skip">Пропускать вступление</string>
+
+</resources>
